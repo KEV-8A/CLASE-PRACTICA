@@ -1,0 +1,32 @@
+.contenedor-principal{
+    background-color: blue; /*color de fondo*/
+    width: 200px;
+}
+
+.nombre{
+    color:yellowgreen; /*color de la fuente*/
+    font-family: fantasy;
+    height: 20;
+}
+
+.profesion{
+    background-color: blueviolet;
+    width: 250px;
+    font-size: 50px; /*tamaño de la fuente*/
+    color: black;
+}
+
+.explicacion-de-la-clase{
+    /*1px es el tamaño del borde,solid demarca la linea y red obviamente el color de la misma*/
+    border: 1px solid red; /*borde del contenedor*/
+    border-radius: 30px;/*para bordes redondiados*/
+    width: 700px; /*tamaño del ancho*/
+    height: 320px; /*tamaño del alto*/
+    font-size: 30px;
+}
+
+p{
+    color: black;
+    font-size: 40px;
+    font-family: cursive;
+}

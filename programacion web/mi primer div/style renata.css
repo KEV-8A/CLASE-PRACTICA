@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: bisque;
+}
+
+.navegador {
+    display:flex;
+    justify-content: space-around;
+    background-color: yellowgreen;
+}
+
+.item {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Sigmar', cursive;
+    ;
+}

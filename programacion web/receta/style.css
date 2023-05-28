@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+body {
+    font-family: 'Pangolin', cursive;
+    color: #333;
+    background-color: whitesmoke;
+}
+
+header {
+    background-color: #f0a243;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+}
+
+p{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+.ingredientes {
+    padding: 20px;
+}
+
+.ingredientes ul {
+    list-style: none;
+    font-size: 30px;
+    margin-left: 40px;
+}
+
+.ingredientes1{
+    border: 2px solid black;
+}
+
+.procedimiento {
+    padding: 20px;
+}
+
+.procedimiento ol {
+    list-style-type: decimal;
+    font-size: 30px;
+    margin-left: 40px;
+}
+
+.imagenes {
+    text-align: center;
+    font-size: 40px;
+}
+
+.preparacion{
+    border: 2px solid black;
+}
+
+.pollo-asado{
+    border: 2px solid black;
+    margin: 30px;
+}
+
+
+footer {
+    background-color: #f0a243;
+    padding: 25px;
+    text-align: center;
+    font-size: 40px;
+}

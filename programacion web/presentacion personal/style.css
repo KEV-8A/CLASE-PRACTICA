@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: bisque;
+}
+
+nav{
+    list-style: none;
+    font-size: 20px;
+}
+
+.lista{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display:flex;
+    justify-content: space-evenly;
+
+}
+
+
+.mi-presentacion{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 50px;
+}
+
+.texto-nombre{
+    color: brown;
+    font-size: 60px;
+    text-align: center;
+}
+
+
+.profesion{
+    font-size: 36px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+.info{
+    font-size: 26px;
+    margin-top: 50px;
+}
+
+.presentacion{
+    text-align: center;
+}
+
+.me{
+    width: 400px;
+    height: 400px;
+    margin-top: 50px;
+}
+
+.pais{
+    text-align: center;
+}
+
+li{
+    font-size: 30px;
+}
+
+.brazil{
+    margin-top: 50px;
+}
+
+h2{
+    margin-top: 50px;
+}
+
+ .img-brazil img{
+    width: 400px;
+    height: 400px;
+    margin-top: 50px;
+
+} 
+/* 
+ .imagenes{
+    width: 400px;
+    height: 400px; 
+}  */
+
+.boton{
+    padding: 10px;
+    color: yellowgreen;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    text-align: center;
+}
+
+button:hover{
+    background-color: black;
+}
+
+button:active{
+    background: red;
+}
+
+button{
+    background-color: darkgreen;
+    margin-top: 30px;
+}
+
+footer{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
